@@ -4,12 +4,12 @@ This repository contains all of files you need to complete Problem Set 8A.
 
 This repository contains 5 files:
 
-- problem-set-8a-problem-1.py - This is problem 1
-- rockgroups.txt
-- problem-set-8a-problem-2.py - This is problem 2
-- problem-set-8a-problem-3.py - This is problem 3
-- problem-set-8a-problem-4.py - This is problem 4
-- README.md - That's the file you are currently reading
+- [problem-set-8a-problem-1.py](problem-set-8a-problem-1.py) - This is problem 1
+- [rockgroups.txt](rockgroups.txt)
+- [problem-set-8a-problem-2.py]problem-set-8a-problem-2.py - This is problem 2
+- [problem-set-8a-problem-3.py](problem-set-8a-problem-3.py) - This is problem 3
+- [problem-set-8a-problem-4.py](problem-set-8a-problem-4.py) - This is problem 4
+- [README.md](README.md) - That's the file you are currently reading
 
 ## Assignment Details
 
