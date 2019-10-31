@@ -1,4 +1,4 @@
-# Module 5 - Problem Set No. 8B
+# Module 5 - Problem Set No. 8A
 
 This repository contains all of files you need to complete Problem Set 8A.
 
